@@ -1,0 +1,9 @@
+{
+  "app_name": "csv_tool",
+  "version": "1.0.1",
+  "settings": {
+    "encoding": "utf-8",
+    "default_file": "test.csv",
+    "enable_stat": true
+  }
+}
